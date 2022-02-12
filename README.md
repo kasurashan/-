@@ -1,21 +1,21 @@
-# deeplearning-study
+deeplearning-study
 -------------------------
 
 VGG, Inception, ResNet
-https://blog.naver.com/mose1204/222443977757
+<https://blog.naver.com/mose1204/222443977757>
 
 MobileNets
-https://blog.naver.com/mose1204/222456249518
+<https://blog.naver.com/mose1204/222456249518>
 
 U-Net
-https://blog.naver.com/mose1204/222468798761
+<https://blog.naver.com/mose1204/222468798761>
 
 DETR
-https://blog.naver.com/mose1204/222505442925
-https://blog.naver.com/mose1204/222505599889
+<https://blog.naver.com/mose1204/222505442925>
+<https://blog.naver.com/mose1204/222505599889>
 
 FCOS
-https://blog.naver.com/mose1204/222508880459
+<https://blog.naver.com/mose1204/222508880459>
 
 
 
