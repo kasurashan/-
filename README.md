@@ -7,6 +7,8 @@ deeplearning-study
   <https://blog.naver.com/mose1204/222443977757>
   - MobileNets  
   <https://blog.naver.com/mose1204/222456249518>
+  - RCNN, Faster RCNN  
+  <https://blog.naver.com/mose1204/222457972069>
   - U-Net  
   <https://blog.naver.com/mose1204/222468798761>
   - DETR  
