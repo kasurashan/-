@@ -4,9 +4,9 @@ deeplearning-study
 - 딥러닝 논문 리뷰
 
   - VGG, Inception, ResNet
-    + <https://blog.naver.com/mose1204/222443977757>
-  - batch normalizatioin  
-    + <https://blog.naver.com/mose1204/222460311268>
+    * <https://blog.naver.com/mose1204/222443977757>
+  * batch normalizatioin  
+    * <https://blog.naver.com/mose1204/222460311268>
   - MobileNets  
     + <https://blog.naver.com/mose1204/222456249518>
   - YOLO v1
