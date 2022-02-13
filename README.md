@@ -5,6 +5,8 @@ deeplearning-study
 
   - VGG, Inception, ResNet  
   <https://blog.naver.com/mose1204/222443977757>
+  - batch normalizatioin  
+  <https://blog.naver.com/mose1204/222460311268>
   - MobileNets  
   <https://blog.naver.com/mose1204/222456249518>
   - RCNN, Faster RCNN  
