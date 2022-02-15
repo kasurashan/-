@@ -32,7 +32,7 @@ deeplearning-study
 
 
 
-- 
+- 쓸만한것
   - pascal voc 2007 to coco dataset  
     + <https://blog.naver.com/mose1204/222526482070>
 
