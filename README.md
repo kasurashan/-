@@ -9,10 +9,9 @@ deeplearning-study
     * <https://blog.naver.com/mose1204/222460311268>
   - MobileNets  
     + <https://blog.naver.com/mose1204/222456249518>
-  - YOLO v1
-    + <https://blog.naver.com/mose1204/222452253930>
-  - RCNN, Faster RCNN  
+  - RCNN, Faster RCNN, YOLO v1  
     + <https://blog.naver.com/mose1204/222457972069>
+    + <https://blog.naver.com/mose1204/222452253930>
   - U-Net  
     + <https://blog.naver.com/mose1204/222468798761>
   - DETR  
